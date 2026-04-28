@@ -1,40 +1,17 @@
-# SAAC02 All
+# 📚 SAA-C02 Complete Study Guide
 
-AWS Workshop - SAAC02 All
+Complete study materials for AWS Solutions Architect Associate (SAA-C02) certification.
 
-## Overview
+## Contents
 
-This repository contains hands-on lab materials for learning AWS services and best practices.
-
-## Prerequisites
-
-- AWS Account
-- Basic understanding of cloud computing
-- AWS CLI installed (optional)
-
-## Getting Started
-
-Follow the instructions in the workshop guide to complete the lab exercises.
-
-## Topics
-
-- AWS
-- Cloud Computing
-- Hands-on Lab
+- All exam domains covered
+- Practice questions and answers
+- Architecture diagrams
 
 ## Author
 
-**Kha Van Hoang**
-- Senior Cloud Security Engineer
-- AWS Community Leader
-- Co-Founder, Viet AWS
+**Van Hoang Kha** — Cloud Security Engineer | AWS Community Builder
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- Email: khavan.work@gmail.com
-- LinkedIn: [linkedin.com/in/vanhoangkha](https://linkedin.com/in/vanhoangkha)
-- GitHub: [github.com/vanhoangkha](https://github.com/vanhoangkha)
