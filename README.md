@@ -1,4 +1,4 @@
-# 📚 SAA-C02 Complete Study Guide
+# SAA-C02 Complete Study Guide
 
 Complete study materials for AWS Solutions Architect Associate (SAA-C02) certification.
 
